@@ -15,8 +15,8 @@
 
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="190dp"
-        android:layout_marginBottom="496dp"
+        android:layout_marginEnd="136dp"
+        android:layout_marginBottom="478dp"
         android:background="NULL"
         android:scrollbarTrackHorizontal="@drawable/ic_launcher_foreground"
         android:shadowColor="@color/white"
@@ -30,20 +30,19 @@
         android:visibility="visible"
         tools:visibility="visible" />
 
+
     <Button
         android:id="@+id/button3"
         android:layout_width="137dp"
         android:layout_height="76dp"
         android:layout_alignParentEnd="true"
         android:layout_alignParentBottom="true"
-        android:layout_marginEnd="194dp"
-        android:layout_marginBottom="392dp"
-        android:text="DIMENSION"
-        android:textSize="15dp"
-        android:textColor="#B0E0E6"
+        android:layout_marginEnd="137dp"
+        android:layout_marginBottom="364dp"
         android:background="NULL"
-        />
-
+        android:text="DIMENSION"
+        android:textColor="#B0E0E6"
+        android:textSize="15dp" />
 
     <TextView
         android:id="@+id/textView"
